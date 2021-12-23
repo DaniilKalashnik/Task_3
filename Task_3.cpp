@@ -1,5 +1,5 @@
 ﻿// Task_3.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
-//
+// Вариант 10
 #define _USE_MATH_DEFINES
 #include <math.h>
 #include <iostream> 
